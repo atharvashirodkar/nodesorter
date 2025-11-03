@@ -1,0 +1,18 @@
+node_modules/
+.env
+dist/
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+/public

@@ -1,0 +1,25 @@
+{
+  "name": "nodesorter",
+  "version": "1.0.0",
+  "description": "A simple Node.js express tool to sort and organize files in a directory by extension.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "keywords": [
+    "node",
+    "sort",
+    "organize",
+    "files",
+    "directory",
+    "automation"
+  ],
+  "author": "atharvashirodkar",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
